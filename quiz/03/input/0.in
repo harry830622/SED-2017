@@ -1,0 +1,6 @@
+duck RubberDuck CanFly Silent
+changeFly RubberDuck CannotFly
+changeQuack RubberDuck Squeak
+swim RubberDuck
+fly RubberDuck
+quack RubberDuck

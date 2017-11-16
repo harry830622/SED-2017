@@ -1,0 +1,13 @@
+duck RubberDuck CanFly Silent
+duck MallardDuck CanFly Squeak
+duck DecoyDuck CannotFly Quack
+fly DecoyDuck
+changeFly RubberDuck CannotFly
+changeQuack RubberDuck Squeak
+swim RubberDuck
+fly RubberDuck
+changeFly MallardDuck CannotFly
+swim MallardDuck
+fly MallardDuck
+quack RubberDuck
+quack DecoyDuck
