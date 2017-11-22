@@ -1,0 +1,10 @@
+data Seafood 8
+data RollsRoyce 2
+data BoxOfficeStaff 3
+addChart Spreadsheet
+change Spreadsheet CustomerServiceStaff 2
+data CustomerServiceStaff 13
+addChart PieChart
+change PieChart iPhone 10
+addChart BarChart
+change Spreadsheet CustomerServiceStaff 4
